@@ -1,0 +1,23 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+h3{
+    color: darkred;
+    text-align: center;
+    font-size: 24px;
+    
+}
+
+ul{
+    color: crimson;
+    font-size: 20px;
+}
+

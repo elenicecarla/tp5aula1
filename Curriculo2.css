@@ -1,0 +1,50 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color:#999;
+    text-shadow:none;
+    
+    font-family:inherit;
+    
+    text-align: center;
+    font-size: 30px;
+    background-color: silver;
+    text-decoration:underline;
+}
+
+h3{
+    font-family: inherit;
+    color: beige;
+    text-align: center;
+    font-size: 24px;
+    background-color: deeppink;
+    text-decoration:underline;
+    font-style: italic
+        
+    -webkit-transition: 3s linear 2s;
+    -moz-transition: 3s linear 2s;
+    -o-transition: 3s linear 2s;
+    transition: 3s linear 2s;    
+    
+}
+
+ul{
+    font-family:inherit;
+    font-size: 20px;
+    font-style: italic  
+    color:transparent;
+    text-shadow: 0 0 5px #999;
+    -webkit-transition: 0.5s ease-in;
+    -moz-transition: 0.5s ease-in;
+    -o-transition: 0.5s ease-in;
+    transition: 0.5s ease-in;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    border: 5px dashed pink;
+}
+
